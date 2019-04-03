@@ -13,3 +13,14 @@ Ce programme permet de jouer à 2 au puissance 4 en tapant sur le clavier l'endr
 |-----------------------|:-------:|----------------------------------------------------:|
 |Création du terrain de jeux |python||
 |les joueur joue chacun leur tour|python||
+
+# Création du terrain de jeux
+image 
+# Le premier joueur joue
+image
+
+# Le deuxiéme joueur joue
+image
+
+# Un des deux joueurs gagne
+image
