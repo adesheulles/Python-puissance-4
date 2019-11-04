@@ -15,3 +15,5 @@ Ce programme permet de jouer à 2 au puissance 4 en tapant sur le clavier l'endr
 |les joueur joue chacun leur tour|python||
 
 Au lancement du programme le terrain de jeux se crée puis le premier joueur indique ou sont pion dans être placer en appuient sur une touche  1,2,3,4,5,6,7 puis le joueur deux joue.
+
+![Capture.png](https://github.com/adesheulles/Python-puissance-4/blob/master/puissance 4.PNG)
